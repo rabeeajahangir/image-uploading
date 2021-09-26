@@ -1,0 +1,24 @@
+{
+  "name": "image-uploading",
+  "version": "1.0.0",
+  "description": "image uploading repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabeeajahangir/image-uploading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabeeajahangir/image-uploading/issues"
+  },
+  "homepage": "https://github.com/rabeeajahangir/image-uploading#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}

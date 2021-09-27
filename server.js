@@ -3,7 +3,6 @@ const path = require("path");
 const express = require("express");
 const multer = require("multer");
 const cors = require("cors");
-
 const app = express();
 
 // This middleware is used to enable Cross Origin Resource Sharing This sets Headers to allow access to our client application
@@ -25,7 +24,10 @@ app.get("/", (req, res) => {
 });
 
 
-const upload = multer({ storage: fileStorageEngine });
+const upload = multer({
+dest: 'images/',
+storage: fileStorageEngine,
+limits: { fieldSize: 10 * 1024 * 1024} }); //10mb
 
 // Single File Route Handler
 app.post("/single", upload.single("image"), (req, res) => {

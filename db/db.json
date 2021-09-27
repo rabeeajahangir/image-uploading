@@ -1,0 +1,9 @@
+{
+    "images": [
+      {
+        "fieldname": "image",
+        "originalname": "",
+        "destination": "./images"
+      }
+    ]
+  }

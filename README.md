@@ -1,17 +1,17 @@
 # IMAGE UPLOADER
 
 ## TABLE OF CONTENTS:
-[Description](#Description)
-[Technologies Used](#Technologies Used)
-[Usage Instructions](#Usage Instructions)
-[Contribution](#Contribution)
-[Screenshot](#Screenshots)
+[Description](#Description)</br>
+[Technologies](#Technologies)</br>
+[Usage](#Usage)</br>
+[Contribution](#Contribution)</br>
+[Screenshot](#Screenshots)</br>
 
 
 ### Description:
 This repository is created to facilitate the upload of one or multiple image(s). 
 
-### Technologies Used:
+### Technologies:
 Node.js, NPM, Express, Multer, Bootstrap,  Jest, Supertest.
 
 ### Usage Instructions:

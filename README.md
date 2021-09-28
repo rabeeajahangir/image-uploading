@@ -15,7 +15,12 @@ This repository is created to facilitate the upload of one or multiple image(s).
 Node.js, NPM, Express, Multer, Bootstrap,  Jest, Supertest.
 
 ### Usage Instructions:
-Verify that Node.js is installed on your system. Then clone the repository to your local machine and open your terminal. Go to the root of the cloned directory and run 'npm start'. Once the server starts, this application will run locally on http://localhost:5000/. Click [here](https://user-images.githubusercontent.com/69980221/135005969-468d3b7f-0482-40f5-9226-375c94b210da.mp4) to watch the walkthrough video.
+
+- Verify that Node.js is installed on your system. 
+- Clone the repository to your local machine and open your terminal. -
+- Go to the root of the cloned directory and run 'npm start'. 
+- Once the server starts, this application will run locally on http://localhost:5000/. 
+- Click [here](https://user-images.githubusercontent.com/69980221/135005969-468d3b7f-0482-40f5-9226-375c94b210da.mp4) to watch the walkthrough video.
 
 ### Contribution:
 This application is created by [Rabeea Jahangir](https://github.com/rabeeajahangir)

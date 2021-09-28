@@ -1,11 +1,11 @@
 # IMAGE UPLOADER
 
 ## TABLE OF CONTENTS:
-[Description](#Description)</br>
-[Technologies](#Technologies)</br>
-[Usage](#Usage)</br>
-[Contribution](#Contribution)</br>
-[Screenshot](#Screenshots)</br>
+- [Description](#Description)</br>
+- [Technologies](#Technologies)</br>
+- [Usage](#Usage)</br>
+- [Contribution](#Contribution)</br>
+- [Screenshot](#Screenshots)</br>
 
 
 ### Description:

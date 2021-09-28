@@ -44,8 +44,8 @@ app.post("/multiple", upload.array("images", 3), (req, res) => {
 });
 
 app.get('/api/images', (req, res) => {
-    let file = images;
-  res.json(req.file);
+    let file = req.files;
+  res.json(file);
 });
 
 
